@@ -22,3 +22,7 @@ Your options are:<br>
  4 - ativa e desativa o shuffle <br>
  5 - remove o episodio que o usuário quiser <br>
  6 - mostra todos os podcasts adicionados <br>
+ 
+ # Link do Podquest no REPLIT 😁
+ 
+ -  <a href="https://replit.com/@fabsdk/EP1-Podquest">Meu Podquest</a> 
