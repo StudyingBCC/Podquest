@@ -1,4 +1,4 @@
-# Podquest 👨‍💻
+# Podquest 🎧
 EP de Estrutura de dados sobre um podquest 
 
 # Meu menu 😀
@@ -14,7 +14,7 @@ Your options are
 
  Choose one:<br>
  
- # O que cada opção faz? 🎧
+ # O que cada opção faz? 👨‍💻
  0 - sai do programa e exibe mensagem na tela; <br>
  1 - toca o primeiro podcast da fila <br>
  2 - toca o proximo; <br>
