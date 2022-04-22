@@ -15,7 +15,7 @@ Your options are:<br>
  Choose one:
  
  # O que cada opção faz? 👩‍💻
- 0 - sai do podquest e exibibe mensagem na tela <br>
+ 0 - sai do podquest e exibe mensagem na tela <br>
  1 - toca o podquest atual <br>
  2 - toca o proximo <br>
  3 - adiciona um novo podquest <br>
