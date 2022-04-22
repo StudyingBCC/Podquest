@@ -1,7 +1,7 @@
-# Podquest
+# Podquest  	🎧
 EP de Estrutura de dados sobre um podquest :) 
 
-# Meu menu 
+# Meu menu 😎
 Your options are:<br>
 
  0 - Leave<br>
@@ -14,7 +14,7 @@ Your options are:<br>
 
  Choose one:
  
- # O que cada opção faz?
+ # O que cada opção faz? 👩‍💻
  0 - sai do podquest e exibibe mensagem na tela <br>
  1 - toca o podquest atual <br>
  2 - toca o proximo <br>
