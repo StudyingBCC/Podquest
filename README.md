@@ -25,4 +25,4 @@ Your options are:<br>
  
  # Link do Podquest no REPLIT 😁
  
- -  <a href="https://replit.com/@fabsdk/EP1-Podquest">Meu Podquest</a> 
+ -  <a href="https://replit.com/@fabsdk/EP1-Podquest" target="_blank">Meu Podquest</a> 
